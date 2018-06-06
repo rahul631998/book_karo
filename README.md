@@ -1,2 +1,2 @@
 # book_karo
-javafx hostel booking software
+hostel booking software using javafx
